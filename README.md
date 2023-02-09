@@ -44,3 +44,5 @@ Documented commands (type help <topic>):<br>
 <code>(hbnb)</code><br> 
 <code>$</code><br>
 
+## Author
+   <a href="https://github.com/Ssekiwala-Colline">Colline Ssekiwala</a>
